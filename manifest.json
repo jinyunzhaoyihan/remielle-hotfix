@@ -1,6 +1,6 @@
 {
-  "version": 18,
-  "updatedAt": "2026-09-18T12:05:22.364Z",
+  "version": 19,
+  "updatedAt": "2026-09-18T16:24:30.640Z",
   "files": {
     "quiz-history": {
       "sha256": "5b6c6a000ed4593fee0376a3673d1ec4f30eb621ea18a725c139ca87411dd84d",
@@ -17,6 +17,10 @@
     "quotes": {
       "sha256": "450d1e19df5442e98d05486c0ec4cbeae2bc90e2cf64a75ec9684e3d23d0bc6f",
       "path": "data/quotes.json"
+    },
+    "grants": {
+      "sha256": "4664fd91f6f13f12cfc352078ca619a6b91cfaf0b4ff74c27e47a9d657b8e8c9",
+      "path": "data/grants.json"
     }
   }
 }
