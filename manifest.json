@@ -1,26 +1,22 @@
 {
-  "version": 19,
-  "updatedAt": "2026-09-18T16:24:30.640Z",
+  "version": 21,
+  "updatedAt": "2026-09-19T02:05:09.876Z",
   "files": {
     "quiz-history": {
-      "sha256": "5b6c6a000ed4593fee0376a3673d1ec4f30eb621ea18a725c139ca87411dd84d",
+      "sha256": "6d409e659af52611108ce9b1ff0d378af521b19f2731bcd1accc46ddfc205894",
       "path": "data/quiz-history.json"
     },
     "quiz-politics": {
-      "sha256": "1ec36a7825989c2a66bbd09b8cb407cd980fb4e8b6f772afcc15d51af10d4b03",
+      "sha256": "4fdd3c804c261c8908538ccf927c6fd10ef93f81d4f0953a2d7c255cfc706f51",
       "path": "data/quiz-politics.json"
     },
     "quiz-english": {
-      "sha256": "a7d67a79e3040adf362f59314cad9ad0dafa7700222ab774f7798b27d88835f0",
+      "sha256": "a3d2dac3abdf19277003e5501ab874e0b6b5f03740a6ca0160f1d9913636404e",
       "path": "data/quiz-english.json"
     },
     "quotes": {
       "sha256": "450d1e19df5442e98d05486c0ec4cbeae2bc90e2cf64a75ec9684e3d23d0bc6f",
       "path": "data/quotes.json"
-    },
-    "grants": {
-      "sha256": "4664fd91f6f13f12cfc352078ca619a6b91cfaf0b4ff74c27e47a9d657b8e8c9",
-      "path": "data/grants.json"
     }
   }
 }
