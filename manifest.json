@@ -1,17 +1,17 @@
 {
-  "version": 57,
-  "updatedAt": "2026-10-07T06:00:28.163Z",
+  "version": 59,
+  "updatedAt": "2026-10-07T12:07:31.076Z",
   "files": {
     "quiz-history": {
-      "sha256": "17676b01fc577d3cafe3a7ecf34c0d348274852649e81d430a4f69a910c0a359",
+      "sha256": "491aeee3c29a802fde5eab5bb02eb342541432b5af1bb13320f60e2ee7b4b554",
       "path": "data/quiz-history.json"
     },
     "quiz-politics": {
-      "sha256": "887db73c7a393e49d237ffe01e129f55b3577b1a0795a6e86f63eac9f2f0ce7d",
+      "sha256": "a86580241b0a4a4d2205860d475059323fcdf562c29f839b8dc8c9c9d03bc27b",
       "path": "data/quiz-politics.json"
     },
     "quiz-english": {
-      "sha256": "5da77f258890321424ddd8cdf07621fd4a141530aa120ce0209871973f140182",
+      "sha256": "335b7a8b2d9a06c030d5553b146b09c58026e1d1fee7d9074ee8ae3129b962e3",
       "path": "data/quiz-english.json"
     },
     "quotes": {
